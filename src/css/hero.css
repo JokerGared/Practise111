@@ -1,3 +1,48 @@
+
+
 .hero {
-  background-color: yellowgreen;
+  background-color: rgba(0, 0, 0, 0.4);
+  background: linear-gradient(180deg, #c4c4c4 0%, #5e5e5e 100%), rgba(0, 0, 0, 0.4);
+}
+
+.hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-header {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 55px;
+  line-height: 1.2;
+  text-align: center;
+  color: #e9e9e9;
+}
+
+.hero-text {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.67;
+  text-align: center;
+  color: #e9e9e9;
+}
+
+.hero-button {
+display: flex;
+align-items: center;
+justify-content: center;
+
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.56;
+  text-align: center;
+  color: #fff;
+
+  border-radius: 5px;
+  width: 165px;
+  height: 48px;
+  background: #28a745;
 }
