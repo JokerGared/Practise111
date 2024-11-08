@@ -1,3 +1,17 @@
 .solution {
     background-color: bisque;
 }
+.container{
+  padding: 0 30px;
+}
+.solution-img{
+  width: 100vw;
+  height: 100vh;
+}
+.sulution-p1{
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 29.95px;
+  text-align: left;
+  text-decoration-skip-ink: none;
+}
