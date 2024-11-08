@@ -1,4 +1,25 @@
 .footer {
-  background-color: aqua;
-  padding: 20px 0;
+  background-color: #333333;
+  ;
+  padding: 20px 30px;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.footer-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+
+.footer-social-icon {
+  fill: #fff;
+}
+
+.footer-text {
+  color: #fff;
+  text-align: center;
 }
